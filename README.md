@@ -45,7 +45,7 @@ You could also run with different zero-cost proxies by specifying ```--metrics``
 
 For example, a typical experiement setting could be: 
 
-```--pool_size 10 --edge_decision random -- validate_rounds 100 --metrics jacob --seed 0```
+```--pool_size 10 --edge_decision random --validate_rounds 100 --metrics jacob --seed 0```
 
 
 
@@ -60,7 +60,7 @@ bash zerocostpt_darts_pipeline.sh --seed [SEED]
 ```
 Our default parameter settings are: 
 
-```--pool_size 10 --edge_decision random -- validate_rounds 100 --metrics jacob```
+```--pool_size 10 --edge_decision random --validate_rounds 100 --metrics jacob```
 
 
 #### 2、For DARTS subspaces S1-S4
